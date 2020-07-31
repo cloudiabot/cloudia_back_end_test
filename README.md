@@ -15,11 +15,14 @@ A client has the following properties:
 * REST API must be implemented using NodeJS and Express.
 * DBMS used must be MySQL.
 * A well written documentation made with Swagger or other tools are a must (at Cloudia, communication is key for success).
-* All parts written in JavaScript must use ES6.
+* All parts written in JavaScript must use ES6+.
+* ORM (Sequelize)
 * Git and Git Flow for version control.
 * Preferebly, the deploy must be on AWS.
 * Unit tests with Jest are a must.
 * Any other types of tests are welcome.
+* Using DDD is a huge plus.
+* Using typescript is a must.
 ​
 ## Evaluation Criteria
 ​
